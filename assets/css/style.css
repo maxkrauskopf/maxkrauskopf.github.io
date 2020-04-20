@@ -293,6 +293,12 @@ h1, h2, h3, h4, h5, h6 {
   border-color: #fff;
 }
 
+.btn-primary:active {
+  background: #fff !important;
+  color: #000 !important;
+  border-color: #fff !important;
+}
+
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
